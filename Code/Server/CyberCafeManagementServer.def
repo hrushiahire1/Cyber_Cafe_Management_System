@@ -1,0 +1,19 @@
+LIBRARY CyberCafeManagementServer
+EXPORTS
+		_createOwner
+		_loginOwner
+		_createCustomer
+		_addComputer
+		_updateComputer
+		_deleteComputer
+		_searchComputer
+		_listAllComputers
+		_registerCustomer
+		_searchCustomer
+		_deleteCustomer
+		_showCustomerList
+		_allocateComputer
+		_updateProfile
+		_getAllCharges
+		_logout
+		_delete
